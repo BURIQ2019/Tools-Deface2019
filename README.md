@@ -5,6 +5,6 @@ apt install curl
 apt install lolcat
 apt install toilet
 git clone https://github.com/BURIQ2019/Tools-Deface2019
-cd Tools-Deface
+cd Tools-Deface2019
 sh Tools-Deface.sh
 #salam Mr.t
